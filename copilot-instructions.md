@@ -1,0 +1,1 @@
+/Users/rikgevers/shopify theme project/ShopifyBug/AGENTS.md
